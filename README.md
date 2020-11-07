@@ -40,7 +40,7 @@ Penjelasan:
 
 Output:
 
-![latihan2.2](assets/img/lab3/2.2.png)
+![Latihan2](foto/Latihan2.png)
 
 # Modul Praktikum 2
 ## Latihan 1: Membuat program menentukan nilai akhir
