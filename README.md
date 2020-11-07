@@ -120,7 +120,7 @@ Penjelasan:
 
 Output:
 
-![latihan3-modul2](assets/img/praktikum-2/3.png)
+![Latihan3_Modul2](foto/Latihan3_Modul2.png)
 
 ## Tugas Praktikum 2
 ![soal-praktikum-modul2](assets/img/praktikum-2/praktikum.png)
