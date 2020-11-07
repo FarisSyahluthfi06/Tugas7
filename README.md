@@ -202,7 +202,7 @@ Output:
 
 
 ## Tugas Praktikum 3
-![SoalLatihanPraktikum3](foto/SoalLatihanPraktikum3.png)
+![SoalPraktikum3](foto/SoalPraktikum3.png)
 
 ```
 a = 100000000
