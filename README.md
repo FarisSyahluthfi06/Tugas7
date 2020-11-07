@@ -144,7 +144,7 @@ Output:
 ![TugasPratikum2](foto/TugasPratikum2.png)
 
 Flowchart
-![flowchart-praktikum-modul2](assets/img/praktikum-2/fc-maks.png)
+![Flowchart](foto/Flowchart.png)
 
 # Modul Praktikum 3
 ## Latihan 1
