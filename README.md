@@ -168,7 +168,7 @@ Penjelasan:
 
 Output:
 
-![latihan2.2](assets/img/lab3/2.2.png)
+![Latihan2](foto/Latihan2.png)
 
 ## Latihan 2
 ![latihan2-modul3](assets/img/praktikum-3/2.png)
