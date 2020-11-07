@@ -243,4 +243,4 @@ Penjelasan:
 
 Output:
 
-![program-1-out-modul3](assets/img/praktikum-3/3.1.png)
+![Program1_Modul3](foto/Program1_Modul3.png)
