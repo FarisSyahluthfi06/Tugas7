@@ -1,6 +1,6 @@
 # Lab 3
 ## Latihan 1
-![latihan1](assets/img/lab3/1.png)
+![Soal1](foto/Soal1.png)
 
 ```
 baris = 10
