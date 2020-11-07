@@ -198,7 +198,7 @@ Penjelasan:
 
 Output:
 
-![latihan-2-out-modul3](assets/img/praktikum-3/2.1.png)
+![Latihan2_Modul3](foto/Latihan2_Modul3.png)
 
 
 ## Tugas Praktikum 3
