@@ -17,7 +17,7 @@ Penjelasan:
 
 Output:
 
-![latihan1.1](assets/img/lab3/1.1.png)
+![Latihan1](foto/Latihan1.png)
 
 ## Latihan 2
 ![latihan2](assets/img/lab3/2.png)
