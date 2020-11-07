@@ -123,7 +123,7 @@ Output:
 ![Latihan3_Modul2](foto/Latihan3_Modul2.png)
 
 ## Tugas Praktikum 2
-![Soal3](foto/Soal3.png)
+![SoalPratikum3](foto/SoalPratikum3.png)
 
 ```
 A = int(input('Masukkan bilangan pertama: '))
@@ -141,7 +141,7 @@ Penjelasan:
 
 Output:
 
-![tugas-praktikum-modul2](assets/img/praktikum-2/5.png)
+![TugasPratikum2](foto/TugasPratikum2.png)
 
 Flowchart
 ![flowchart-praktikum-modul2](assets/img/praktikum-2/fc-maks.png)
