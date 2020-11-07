@@ -79,7 +79,7 @@ Penjelasan:
 
 Output:
 
-![latihan1-modul2](assets/img/praktikum-2/1.png)
+![Latihan1_Modul2](foto/Latihan1_Modul2.png)
 
 ## Latihan 2: Membuat program menampilkan status gaji karyawan
 
