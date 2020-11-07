@@ -20,7 +20,7 @@ Output:
 ![Latihan1](foto/Latihan1.png)
 
 ## Latihan 2
-![Soal2](foto/Soal2)
+![Soal2](foto/Soal2.png)
 
 ```
 import random
