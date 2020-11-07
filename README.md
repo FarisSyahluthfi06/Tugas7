@@ -244,3 +244,5 @@ Penjelasan:
 Output:
 
 ![Program1_Modul3](foto/Program1_Modul3.png)
+
+![Terimakasih](foto/Terimakasih.png)
