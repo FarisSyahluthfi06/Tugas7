@@ -148,7 +148,7 @@ Flowchart
 
 # Modul Praktikum 3
 ## Latihan 1
-![latihan1-modul3](assets/img/praktikum-3/1.png)
+![SoalPraktikum1](foto/SoalPraktikum1.png)
 
 ```
 import random
