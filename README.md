@@ -1,3 +1,5 @@
+
+![Faris](foto/Faris.png)
 # Lab 3
 ## Latihan 1
 ![Soal1](foto/Soal1.png)
