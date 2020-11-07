@@ -123,7 +123,7 @@ Output:
 ![Latihan3_Modul2](foto/Latihan3_Modul2.png)
 
 ## Tugas Praktikum 2
-![soal-praktikum-modul2](assets/img/praktikum-2/praktikum.png)
+![Soal3](foto/Soal3.png)
 
 ```
 A = int(input('Masukkan bilangan pertama: '))
