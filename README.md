@@ -104,7 +104,7 @@ Penjelasan:
 
 Output:
 
-![latihan2-modul2](assets/img/praktikum-2/2.png)
+![Latihan2_Modul2](foto/Latihan2_Modul2.png)
 
 ## Latihan 3: penggunaan kondisi OR program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan “BENAR”
 
