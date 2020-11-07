@@ -171,7 +171,7 @@ Output:
 ![Latihan2](foto/Latihan2.png)
 
 ## Latihan 2
-![latihan2-modul3](assets/img/praktikum-3/2.png)
+![SoalLatihan2](foto/SoalLatihan2.png)
 
 ```
 max = 0
