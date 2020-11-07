@@ -1,7 +1,12 @@
 
 ![Faris](foto/Faris.png)
-# Lab 3
-## Latihan 1
+
+**Nama : Faris Syahluthfi** <br>
+**Nim  : 312010034** <br>
+**Kelas: TI.A1.20** <br>
+**Tugas: Bahasa Pemrogramman** <br>
+
+
 ![Soal1](foto/Soal1.png)
 
 ```
